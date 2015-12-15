@@ -2,13 +2,21 @@ h1,a
 {
   font-family: 'Montserrat', sans-serif;
   color: white;
+  margin: 20px;
 }
+
 
 #name{
   font-size: 4em;
   font-family: 'Montserrat', sans-serif;
   color: white;
+    background-color: rgba(0, 0, 0, 0.7);
 
+}
+
+.links{
+  margin: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 html {
